@@ -1,3 +1,5 @@
 Je suis mon premier cours sur git ! On travaille dans le contexte de l'exploration de mars par Dracula et ...
 On aajoute une 2eme ligne.
 Pour aller plus loin, on doit se proteger des mommy.
+
+Maintenant, il est temps d'entamer le vrai combat.
